@@ -5,7 +5,7 @@ public class Main {
         Subtraction subObj = new Subtraction();
       Multiply mulObj = new Multiply();
 
-        int num1 = 11, num2 = 5;
+        int num1 = 11, num2 = 7;
 
         int sum = addObj.addition(num1, num2);
         int diff = subObj.subtract(num1, num2);
